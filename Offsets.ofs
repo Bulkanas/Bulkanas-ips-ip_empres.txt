@@ -1,0 +1,56 @@
+//2024-08-15 10:50
+
+//dwLocalPlayerController
+0x27827856
+//dwLocalPlayerPawn
+0x25743216
+//dwEntityList
+0x27494400
+//dwViewAngles
+0x27977856
+//dwViewMatrix
+0x27936240
+//m_hPlayerPawn
+0x2068
+//m_iTeamNum
+0x995
+//m_ArmorValue
+0x9244
+//m_iHealth
+0x5136
+//m_iIDEntIndex
+0x5208
+//m_fFlags
+0x1004
+//m_iShotsFired
+0x9212
+//m_vecVelocity
+0x1024
+//m_entitySpottedState + m_bSpotted
+0x40008
+//m_bIsScoped
+0x9192
+//m_pClippingWeapon
+0x5024
+//m_pGameSceneNode
+0x808
+//m_vecOrigin
+0x136
+//m_aimPunchCache
+0x5544
+//m_vecViewOffset
+0x3248
+//m_modelState + 0x80
+0x368
+//m_iszPlayerName
+0x1632
+//m_pActionTrackingServices
+0x5432
+//m_iNumRoundKills
+0x272
+//m_unTotalRoundDamageDealt
+0x280
+//m_AttributeManager + m_Item + m_iItemDefinitionIndex
+0x4080
+//m_angEyeAngles
+0x5176
